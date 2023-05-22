@@ -5,7 +5,6 @@ import Link from "next/link";
 
 import {
    getProviders,
-   sigIn,
    sigOut,
    signIn,
    signOut,
